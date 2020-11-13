@@ -28,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@material/button": "^7.0.0",
-    "@material/elevation": "^7.0.0",
-    "@material/feature-targeting": "^7.0.0",
+    "@material/button": "^8.0.0",
+    "@material/elevation": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
     "@smui/common": "^1.0.0",
     "@smui/ripple": "^1.0.0"
   },
